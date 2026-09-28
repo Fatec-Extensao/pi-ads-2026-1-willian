@@ -4,6 +4,13 @@ Sistema Web para Gestão de Pesquisas por Questionários — Projeto Integrador,
 
 **Aplicação publicada:** [Pendente]
 
+---
+
+Para organizarmos o fluxo de trabalho de forma profissional e garantir o versionamento adequado de todos os artefatos, está proibido o envio de arquivos fechados ou proprietários (como .docx, .xlsx, .pptx e .pdf) para o repositório.
+A partir de agora, toda a documentação deve ser escrita exclusivamente em Markdown (.md) e armazenada diretamente nas pastas estruturadas do projeto.
+
+---
+
 ## Documentação de 2026-2
 
 | Disciplina | Material |
