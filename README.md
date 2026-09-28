@@ -2,7 +2,7 @@
 
 Sistema Web para Gestão de Pesquisas por Questionários — Projeto Integrador, ADS, Fatec Lins.
 
-**Aplicação publicada:** [Pendente - Link será adicionado aqui na Issue #9]
+**Aplicação publicada:** [Pendente - Link será adicionado na Issue #9]
 
 Este repositório organiza os artefatos de 2026-2 conforme o Guia de Padronização de Entregas no GitHub (PI II — ADS).
 
