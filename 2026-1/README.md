@@ -1,3 +1,3 @@
 # Arquivo 2026-1
 
-Material do semestre passado.
+Preservação dos artefatos do semestre anterior.
