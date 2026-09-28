@@ -1,0 +1,1 @@
+-- Script DDL de criação do banco
